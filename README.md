@@ -8,7 +8,7 @@ A Python program that simulates a 3D scene with a plane, several cylinders, a su
 Here is the initial scene before rendering:
 
 <p align="center">
-  <img src="Base%20Image.png" alt="Base Image" width="600">
+  <img src="images/Base%20Image.png" alt="Base Image" width="600">
 </p>
 
 ---
@@ -17,7 +17,7 @@ Here is the initial scene before rendering:
 The final rendered scene after processing:
 
 <p align="center">
-  <img src="Final%20Image.png" alt="Final Result" width="600">
+  <img src="images/Final%20Image.png" alt="Final Result" width="600">
 </p>
 
 ---
